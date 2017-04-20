@@ -6,6 +6,7 @@ git clone git@github.com:mashaletova/cday.git
 cd cday
 python3 -m venv cday
 . bin/activate
+pip3 install -r requirements.txt
 ```
 
 # Usage
